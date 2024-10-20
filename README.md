@@ -6,6 +6,7 @@ DSA practice
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/munagalachandu/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/munagalachandu/DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/munagalachandu/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -15,5 +16,6 @@ DSA practice
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/munagalachandu/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/munagalachandu/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
