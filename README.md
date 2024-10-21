@@ -38,8 +38,13 @@ DSA practice
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
+| [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
