@@ -13,6 +13,7 @@ DSA practice
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/munagalachandu/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/munagalachandu/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -33,4 +34,12 @@ DSA practice
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/munagalachandu/DSA/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
