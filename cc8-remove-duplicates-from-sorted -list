@@ -1,0 +1,97 @@
+/*Remove Duplicates from Sorted List
+You are given head of the non-empty sorted linked list where the value of the ith
+  node will be A[i].
+​Your task is to delete all duplicates such that each element appears only once and return the linked list sorted.
+
+Input:
+First line will contain T, number of test cases. Then the test cases follow.
+The first line contains one integer N — the length of the linked list.
+The second line contains N space separated integers — the value of the linked list nodes starting from the head for the linked list.
+Output:
+The function you complete should return the required answer.
+*/
+#include <stdio.h>
+#include <stdlib.h>
+
+// Definition for singly-linked list.
+struct Node {
+    int data;
+    struct Node* next;
+};
+
+// Function to create a new node
+struct Node* createNode(int value) {
+    struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
+    newNode->data = value;
+    newNode->next = NULL;
+    return newNode;
+}
+
+// Function to remove duplicates from a sorted linked list
+struct Node* removeDuplicates(struct Node* head) {
+    // Check if the list is empty
+    if (head == NULL) return head;
+
+    struct Node* current = head;
+
+    // Traverse the list
+    while (current->next != NULL) {
+        // If current node's data is the same as the next node's data
+        if (current->data == current->next->data) {
+            // Skip the next node
+            struct Node* duplicate = current->next;
+            current->next = duplicate->next;
+            free(duplicate); // Free memory of the duplicate node
+        } else {
+            // Move to the next node
+            current = current->next;
+        }
+    }
+
+    return head; // Return the modified list
+}
+
+// Function to print the linked list
+void printList(struct Node* head) {
+    struct Node* current = head;
+    while (current != NULL) {
+        printf("%d ", current->data);
+        current = current->next;
+    }
+    printf("\n");
+}
+
+// Main function for testing
+int main() {
+    int T; // Number of test cases
+    scanf("%d", &T);
+
+    while (T--) {
+        int N; // Length of the linked list
+        scanf("%d", &N);
+
+        struct Node* head = NULL;
+        struct Node* tail = NULL;
+
+        for (int i = 0; i < N; i++) {
+            int value;
+            scanf("%d", &value);
+            struct Node* newNode = createNode(value);
+            if (head == NULL) {
+                head = newNode; // If list is empty, set head
+                tail = newNode; // Set tail to new node
+            } else {
+                tail->next = newNode; // Link new node to the end of the list
+                tail = newNode; // Update tail
+            }
+        }
+
+        // Remove duplicates
+        head = removeDuplicates(head);
+
+        // Print the modified list
+        printList(head);
+    }
+
+    return 0;
+}
