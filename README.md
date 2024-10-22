@@ -6,6 +6,7 @@ DSA practice
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/munagalachandu/DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/munagalachandu/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/munagalachandu/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/munagalachandu/DSA/tree/master/0234-palindrome-linked-list) |
@@ -14,6 +15,7 @@ DSA practice
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/munagalachandu/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/munagalachandu/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/munagalachandu/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -47,4 +49,8 @@ DSA practice
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/munagalachandu/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
