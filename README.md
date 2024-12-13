@@ -39,6 +39,7 @@ DSA practice
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/munagalachandu/DSA/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
 ## Sorting
@@ -52,5 +53,6 @@ DSA practice
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/munagalachandu/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/munagalachandu/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
