@@ -55,4 +55,8 @@ DSA practice
 | ------- |
 | [0001-two-sum](https://github.com/munagalachandu/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/munagalachandu/DSA/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/munagalachandu/DSA/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
