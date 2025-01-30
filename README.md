@@ -58,5 +58,6 @@ DSA practice
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/munagalachandu/DSA/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/munagalachandu/DSA/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
