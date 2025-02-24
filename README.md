@@ -16,6 +16,7 @@ DSA practice
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/munagalachandu/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/munagalachandu/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/munagalachandu/DSA/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -76,4 +77,8 @@ DSA practice
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/munagalachandu/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
