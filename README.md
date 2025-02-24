@@ -17,6 +17,7 @@ DSA practice
 | [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/munagalachandu/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/munagalachandu/DSA/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/munagalachandu/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -41,11 +42,13 @@ DSA practice
 | ------- |
 | [0001-two-sum](https://github.com/munagalachandu/DSA/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -55,6 +58,7 @@ DSA practice
 | ------- |
 | [0001-two-sum](https://github.com/munagalachandu/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/munagalachandu/DSA/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
 | ------- |
@@ -66,4 +70,8 @@ DSA practice
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/munagalachandu/DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/munagalachandu/DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/munagalachandu/DSA/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
