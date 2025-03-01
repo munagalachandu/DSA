@@ -8,7 +8,7 @@ public:
        for(int i=0;i<nums.size();i++)
        {if(m[nums[i]]==1)
         {
-        return nums[i];break;}
+        return nums[i];}
         }
         return 0;
     }
