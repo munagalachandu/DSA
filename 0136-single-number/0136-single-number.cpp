@@ -7,9 +7,7 @@ public:
        m[num]++;
        for(int i=0;i<nums.size();i++)
        {if(m[nums[i]]==1)
-        {
-        return nums[i];}
-        }
+        {return nums[i];}}
         return 0;
     }
 };
