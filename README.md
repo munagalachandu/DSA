@@ -70,6 +70,7 @@ DSA practice
 | [0141-linked-list-cycle](https://github.com/munagalachandu/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/munagalachandu/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/munagalachandu/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Database
 |  |
 | ------- |
@@ -91,6 +92,7 @@ DSA practice
 | ------- |
 | [0013-roman-to-integer](https://github.com/munagalachandu/DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/munagalachandu/DSA/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/munagalachandu/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,8 +101,13 @@ DSA practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/munagalachandu/DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/munagalachandu/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/munagalachandu/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/munagalachandu/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
