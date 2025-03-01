@@ -5,10 +5,10 @@ public:
     
        for(int num:nums)
        m[num]++;
-       for(auto &it:m)
-       {if(it.second==1)
+       for(int i=0;i<nums.size();i++)
+       {if(m[nums[i]]==1)
         
-        return it.first;}
+        return nums[i];}
         return 0;
     }
 };
