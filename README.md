@@ -52,6 +52,7 @@ DSA practice
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/munagalachandu/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/munagalachandu/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
@@ -60,6 +61,7 @@ DSA practice
 | [0169-majority-element](https://github.com/munagalachandu/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/munagalachandu/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -74,6 +76,7 @@ DSA practice
 | [0242-valid-anagram](https://github.com/munagalachandu/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/munagalachandu/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 ## Database
 |  |
 | ------- |
@@ -118,4 +121,5 @@ DSA practice
 |  |
 | ------- |
 | [0136-single-number](https://github.com/munagalachandu/DSA/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
