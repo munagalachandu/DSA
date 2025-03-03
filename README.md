@@ -41,6 +41,7 @@ DSA practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/munagalachandu/DSA/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/munagalachandu/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/munagalachandu/DSA/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -118,10 +119,15 @@ DSA practice
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/munagalachandu/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/munagalachandu/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/munagalachandu/DSA/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/munagalachandu/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
