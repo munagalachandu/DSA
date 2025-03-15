@@ -7,9 +7,7 @@ public:
       int ct = 0;
     for (int i = 0; i <= s.size() - 3; i++) {
        mp.clear();
-        mp.insert(s[i]);
-        mp.insert(s[i+1]);
-        mp.insert(s[i+2]);
+        mp={s[i],s[i+1],s[i+2]};
 
         if (mp.size() == 3) ct++;
     }
