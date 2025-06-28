@@ -52,6 +52,7 @@ DSA practice
 | [0001-two-sum](https://github.com/munagalachandu/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/munagalachandu/DSA/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/munagalachandu/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/munagalachandu/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/munagalachandu/DSA/tree/master/0136-single-number) |
@@ -117,6 +118,7 @@ DSA practice
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/munagalachandu/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/munagalachandu/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -127,6 +129,7 @@ DSA practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/munagalachandu/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/munagalachandu/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
 |  |
