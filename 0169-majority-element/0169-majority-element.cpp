@@ -1,27 +1,26 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-       int candidate = nums[0], count = 1;
+
+        int n=nums.size();
         
-        // Step 1: Find a candidate
-        for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] == candidate) {
-                count++;
-            } else {
-                count--;
-                if (count == 0) {
-                    candidate = nums[i];
-                    count = 1;
-                }
-            }
-        }
+        if (n==1)
+        return nums[0];
+        int max=-1;
+        int elem=0;
+int c=1;
+        sort(nums.begin(),nums.end());
+        for ( int i=0;i<n-1;i++)
+        { if( nums[i]==nums[i+1])
+        { c++;}
+        else
+        { c=1;}
 
-        // Step 2: Verify if candidate is actually the majority element
-        count = 0;
-        for (int num : nums) {
-            if (num == candidate) count++;
+        if (c>max)
+        { max=c;
+        elem= nums[i];}
         }
-
-        return (count > nums.size() / 2) ? candidate : -1;  
+        return elem;
     }
 };
+// when we sort we get 66677 then if 6==6 then count 1
