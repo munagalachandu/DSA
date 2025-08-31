@@ -65,6 +65,7 @@ DSA practice
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/munagalachandu/DSA/tree/master/0792-binary-search) |
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/munagalachandu/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -155,4 +156,8 @@ DSA practice
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/munagalachandu/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/munagalachandu/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/munagalachandu/DSA/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
