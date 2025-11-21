@@ -23,6 +23,7 @@ DSA practice
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/munagalachandu/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/munagalachandu/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/munagalachandu/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/munagalachandu/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/munagalachandu/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -64,6 +65,7 @@ DSA practice
 | [0169-majority-element](https://github.com/munagalachandu/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/munagalachandu/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/munagalachandu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/munagalachandu/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/munagalachandu/DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/munagalachandu/DSA/tree/master/0643-maximum-average-subarray-i) |
