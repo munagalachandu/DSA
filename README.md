@@ -46,6 +46,7 @@ DSA practice
 | [0013-roman-to-integer](https://github.com/munagalachandu/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/munagalachandu/DSA/tree/master/0189-rotate-array) |
 | [1585-the-kth-factor-of-n](https://github.com/munagalachandu/DSA/tree/master/1585-the-kth-factor-of-n) |
+| [1903-largest-odd-number-in-string](https://github.com/munagalachandu/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -136,6 +137,7 @@ DSA practice
 | [0125-valid-palindrome](https://github.com/munagalachandu/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/munagalachandu/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/munagalachandu/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/munagalachandu/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/munagalachandu/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -187,4 +189,8 @@ DSA practice
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/munagalachandu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/munagalachandu/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
