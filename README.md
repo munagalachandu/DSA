@@ -79,6 +79,7 @@ DSA practice
 | [0643-maximum-average-subarray-i](https://github.com/munagalachandu/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/munagalachandu/DSA/tree/master/0792-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/munagalachandu/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/munagalachandu/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/munagalachandu/DSA/tree/master/2102-find-the-middle-index-in-array) |
@@ -180,6 +181,7 @@ DSA practice
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/munagalachandu/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/munagalachandu/DSA/tree/master/2102-find-the-middle-index-in-array) |
 ## Heap (Priority Queue)
 |  |
