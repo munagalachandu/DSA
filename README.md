@@ -81,6 +81,7 @@ DSA practice
 | [0792-binary-search](https://github.com/munagalachandu/DSA/tree/master/0792-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/munagalachandu/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/munagalachandu/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/munagalachandu/DSA/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/munagalachandu/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -97,6 +98,7 @@ DSA practice
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/munagalachandu/DSA/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
