@@ -4,17 +4,17 @@ public:
      int n = nums.size();
         if (n == 0 || k == 0) return;
         k = k % n; 
-
-        vector<int> temp(k);  
-        for (int i = n - k; i < n; i++) {
-            temp[i - (n - k)] = nums[i];}
-        for (int i = n - k - 1; i >= 0; i--) {
-            nums[i + k] = nums[i];
-        }
-
-        for (int i = 0; i < k; i++) {
-            nums[i] = temp[i];
+        int l1=0, r1=n-k-1;
+        while(l1<r1)
+        { swap(nums[l1++],nums[r1--]);}
+        int l2=n-k, r2=n-1;
+        while(l2<r2)
+        {swap(nums[l2++],nums[r2--]);}
+        int l3=0,r3=n-1;
+        while(l3<r3)
+        {swap(nums[l3++],nums[r3--]);}
+        
   }
-}
+
 
 };
