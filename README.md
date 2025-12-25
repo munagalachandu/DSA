@@ -48,6 +48,7 @@ DSA practice
 | ------- |
 | [0013-roman-to-integer](https://github.com/munagalachandu/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/munagalachandu/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [1585-the-kth-factor-of-n](https://github.com/munagalachandu/DSA/tree/master/1585-the-kth-factor-of-n) |
 | [1903-largest-odd-number-in-string](https://github.com/munagalachandu/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Number Theory
@@ -77,6 +78,7 @@ DSA practice
 | [0189-rotate-array](https://github.com/munagalachandu/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/munagalachandu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/munagalachandu/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/munagalachandu/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/munagalachandu/DSA/tree/master/0485-max-consecutive-ones) |
@@ -98,6 +100,7 @@ DSA practice
 | [0215-kth-largest-element-in-an-array](https://github.com/munagalachandu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/munagalachandu/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/munagalachandu/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 ## Simulation
@@ -115,6 +118,7 @@ DSA practice
 | [0169-majority-element](https://github.com/munagalachandu/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/munagalachandu/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/munagalachandu/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/munagalachandu/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
@@ -135,6 +139,7 @@ DSA practice
 | ------- |
 | [0035-search-insert-position](https://github.com/munagalachandu/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/munagalachandu/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/munagalachandu/DSA/tree/master/0792-binary-search) |
 ## String
@@ -175,6 +180,7 @@ DSA practice
 |  |
 | ------- |
 | [0136-single-number](https://github.com/munagalachandu/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 ## Design
 |  |
