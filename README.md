@@ -92,6 +92,7 @@ DSA practice
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/munagalachandu/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/munagalachandu/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ DSA practice
 | [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/munagalachandu/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Simulation
 |  |
 | ------- |
