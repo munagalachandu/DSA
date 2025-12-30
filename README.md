@@ -51,6 +51,7 @@ DSA practice
 | [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [1585-the-kth-factor-of-n](https://github.com/munagalachandu/DSA/tree/master/1585-the-kth-factor-of-n) |
 | [1903-largest-odd-number-in-string](https://github.com/munagalachandu/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/munagalachandu/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/munagalachandu/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Number Theory
 |  |
