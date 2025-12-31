@@ -35,6 +35,7 @@ DSA practice
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/munagalachandu/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/munagalachandu/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
@@ -92,6 +93,7 @@ DSA practice
 | [1920-build-array-from-permutation](https://github.com/munagalachandu/DSA/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/munagalachandu/DSA/tree/master/2102-find-the-middle-index-in-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/munagalachandu/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
@@ -112,6 +114,7 @@ DSA practice
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/munagalachandu/DSA/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
