@@ -75,6 +75,7 @@ DSA practice
 | [0035-search-insert-position](https://github.com/munagalachandu/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/munagalachandu/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/munagalachandu/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/munagalachandu/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/munagalachandu/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/munagalachandu/DSA/tree/master/0136-single-number) |
@@ -191,6 +192,7 @@ DSA practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/munagalachandu/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/munagalachandu/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
@@ -233,4 +235,8 @@ DSA practice
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/munagalachandu/DSA/tree/master/0496-next-greater-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/munagalachandu/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
