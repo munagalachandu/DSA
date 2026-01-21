@@ -51,6 +51,7 @@ DSA practice
 | [0189-rotate-array](https://github.com/munagalachandu/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [1585-the-kth-factor-of-n](https://github.com/munagalachandu/DSA/tree/master/1585-the-kth-factor-of-n) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/munagalachandu/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/munagalachandu/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/munagalachandu/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/munagalachandu/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -94,6 +95,7 @@ DSA practice
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/munagalachandu/DSA/tree/master/0792-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/munagalachandu/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/munagalachandu/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/munagalachandu/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/munagalachandu/DSA/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
@@ -198,6 +200,7 @@ DSA practice
 | [0136-single-number](https://github.com/munagalachandu/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/munagalachandu/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Design
 |  |
 | ------- |
@@ -242,4 +245,13 @@ DSA practice
 | ------- |
 | [0078-subsets](https://github.com/munagalachandu/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/munagalachandu/DSA/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/munagalachandu/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/munagalachandu/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/munagalachandu/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
