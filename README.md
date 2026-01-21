@@ -74,6 +74,7 @@ DSA practice
 | [0014-longest-common-prefix](https://github.com/munagalachandu/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/munagalachandu/DSA/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/munagalachandu/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/munagalachandu/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/munagalachandu/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/munagalachandu/DSA/tree/master/0078-subsets) |
@@ -243,6 +244,7 @@ DSA practice
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/munagalachandu/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/munagalachandu/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/munagalachandu/DSA/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/munagalachandu/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
