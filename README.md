@@ -33,6 +33,7 @@ DSA practice
 | [0234-palindrome-linked-list](https://github.com/munagalachandu/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/munagalachandu/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/munagalachandu/DSA/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/munagalachandu/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/munagalachandu/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -90,6 +91,7 @@ DSA practice
 | [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/munagalachandu/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/munagalachandu/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/munagalachandu/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/munagalachandu/DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/munagalachandu/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -115,6 +117,7 @@ DSA practice
 | [0242-valid-anagram](https://github.com/munagalachandu/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/munagalachandu/DSA/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/munagalachandu/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Simulation
@@ -230,6 +233,7 @@ DSA practice
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/munagalachandu/DSA/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/munagalachandu/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
