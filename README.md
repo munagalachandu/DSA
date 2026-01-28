@@ -96,6 +96,7 @@ DSA practice
 | [0496-next-greater-element-i](https://github.com/munagalachandu/DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/munagalachandu/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/munagalachandu/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0792-binary-search](https://github.com/munagalachandu/DSA/tree/master/0792-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/munagalachandu/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/munagalachandu/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -141,6 +142,7 @@ DSA practice
 | [0387-first-unique-character-in-a-string](https://github.com/munagalachandu/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/munagalachandu/DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/munagalachandu/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/munagalachandu/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Database
 |  |
@@ -226,6 +228,7 @@ DSA practice
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/munagalachandu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/munagalachandu/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Quickselect
 |  |
 | ------- |
@@ -234,6 +237,7 @@ DSA practice
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/munagalachandu/DSA/tree/master/0455-assign-cookies) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/munagalachandu/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1903-largest-odd-number-in-string](https://github.com/munagalachandu/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
