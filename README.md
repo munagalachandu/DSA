@@ -77,6 +77,7 @@ DSA practice
 | [0035-search-insert-position](https://github.com/munagalachandu/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/munagalachandu/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/munagalachandu/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/munagalachandu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/munagalachandu/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/munagalachandu/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0088-merge-sorted-array) |
@@ -134,6 +135,7 @@ DSA practice
 | ------- |
 | [0001-two-sum](https://github.com/munagalachandu/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/munagalachandu/DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/munagalachandu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/munagalachandu/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/munagalachandu/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/munagalachandu/DSA/tree/master/0169-majority-element) |
@@ -274,4 +276,8 @@ DSA practice
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/munagalachandu/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/munagalachandu/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
