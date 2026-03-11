@@ -98,6 +98,7 @@ DSA practice
 | [0455-assign-cookies](https://github.com/munagalachandu/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/munagalachandu/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/munagalachandu/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/munagalachandu/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/munagalachandu/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/munagalachandu/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -147,6 +148,7 @@ DSA practice
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/munagalachandu/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/munagalachandu/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/munagalachandu/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/munagalachandu/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/munagalachandu/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -228,6 +230,7 @@ DSA practice
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/munagalachandu/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/munagalachandu/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/munagalachandu/DSA/tree/master/2102-find-the-middle-index-in-array) |
 ## Heap (Priority Queue)
