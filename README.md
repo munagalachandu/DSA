@@ -49,6 +49,7 @@ DSA practice
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/munagalachandu/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/munagalachandu/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/munagalachandu/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/munagalachandu/DSA/tree/master/0268-missing-number) |
 | [1585-the-kth-factor-of-n](https://github.com/munagalachandu/DSA/tree/master/1585-the-kth-factor-of-n) |
@@ -76,6 +77,7 @@ DSA practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/munagalachandu/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/munagalachandu/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/munagalachandu/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/munagalachandu/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/munagalachandu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/munagalachandu/DSA/tree/master/0075-sort-colors) |
@@ -279,5 +281,6 @@ DSA practice
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/munagalachandu/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/munagalachandu/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
