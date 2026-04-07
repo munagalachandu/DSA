@@ -4,18 +4,13 @@ public:
         int l=0,r=0;
         int res=0;
         int n=s.size();
-        unordered_set<char>st;
-        while(r<n)
-        { 
-        int cnt=0;
-        if(!st.count(s[r]))
-        { st.insert(s[r]);
-        res=max(res,r-l+1);
-        r++;}
-        else
-        {st.erase(s[l]);
-        l++;
-        }}
+        unordered_map<char,int>mp;
+       for(int r=0;r<n;r++)
+       { if(mp.find(s[r])!=mp.end())
+       {l=max(l,mp[s[r]]+1);
+       }
+       mp[s[r]]=r;
+       res=max(res,r-l+1);}
         return res;
         
     
