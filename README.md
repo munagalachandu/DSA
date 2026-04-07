@@ -137,6 +137,7 @@ DSA practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/munagalachandu/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/munagalachandu/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/munagalachandu/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/munagalachandu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/munagalachandu/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -174,6 +175,7 @@ DSA practice
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/munagalachandu/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/munagalachandu/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/munagalachandu/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/munagalachandu/DSA/tree/master/0020-valid-parentheses) |
@@ -225,6 +227,7 @@ DSA practice
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/munagalachandu/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/munagalachandu/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/munagalachandu/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
