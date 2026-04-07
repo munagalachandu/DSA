@@ -7,7 +7,7 @@ public:
         for( int r=0;r<n;r++)
         {mp[s[r]]++;
         maxf=max(maxf,mp[s[r]]);
-        if((r-l+1)-maxf>k)
+        while((r-l+1)-maxf>k)
         {mp[s[l]]--;
         l++;}
         res=max(res,r-l+1);
