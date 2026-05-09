@@ -108,6 +108,7 @@ DSA practice
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/munagalachandu/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0704-binary-search](https://github.com/munagalachandu/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/munagalachandu/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/munagalachandu/DSA/tree/master/0792-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/munagalachandu/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/munagalachandu/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -184,6 +185,7 @@ DSA practice
 | [0349-intersection-of-two-arrays](https://github.com/munagalachandu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/munagalachandu/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/munagalachandu/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/munagalachandu/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/munagalachandu/DSA/tree/master/0792-binary-search) |
 ## String
 |  |
