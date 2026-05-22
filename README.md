@@ -69,6 +69,7 @@ DSA practice
 | [0232-implement-queue-using-stacks](https://github.com/munagalachandu/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/munagalachandu/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/munagalachandu/DSA/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/munagalachandu/DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/munagalachandu/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
@@ -108,6 +109,7 @@ DSA practice
 | [0643-maximum-average-subarray-i](https://github.com/munagalachandu/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/munagalachandu/DSA/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/munagalachandu/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0682-baseball-game](https://github.com/munagalachandu/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/munagalachandu/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/munagalachandu/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/munagalachandu/DSA/tree/master/0792-binary-search) |
@@ -137,6 +139,7 @@ DSA practice
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/munagalachandu/DSA/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/munagalachandu/DSA/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/munagalachandu/DSA/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/munagalachandu/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
