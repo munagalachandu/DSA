@@ -69,6 +69,7 @@ DSA practice
 | [0232-implement-queue-using-stacks](https://github.com/munagalachandu/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/munagalachandu/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/munagalachandu/DSA/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/munagalachandu/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
@@ -200,6 +201,7 @@ DSA practice
 | [0424-longest-repeating-character-replacement](https://github.com/munagalachandu/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0784-letter-case-permutation](https://github.com/munagalachandu/DSA/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/munagalachandu/DSA/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/munagalachandu/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/munagalachandu/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/munagalachandu/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
