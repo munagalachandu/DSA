@@ -2,24 +2,40 @@ class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         
-        unordered_map<int,int> mp;
+        // Stack for next greater element
         stack<int> st;
 
-        for(int i = 0; i < nums2.size(); i++) {
-            while(!st.empty() && nums2[i] > st.top()) {
-           mp[st.top()] = nums2[i];
-                st.pop();}
+        // Map to store next greater values
+        unordered_map<int, int> mp;
+
+        // Traverse nums2 from right to left
+        for(int i = nums2.size() - 1; i >= 0; i--) {
+
+            // Remove smaller elements
+            while(!st.empty() && st.top() <= nums2[i]) {
+                st.pop();
+            }
+
+            // If no greater element exists
+            if(st.empty()) {
+                mp[nums2[i]] = -1;
+            }
+
+            // Top is next greater element
+            else {
+                mp[nums2[i]] = st.top();
+            }
+
+            // Push current element
             st.push(nums2[i]);
         }
 
-        while(!st.empty()) {
-            mp[st.top()] = -1;
-            st.pop();
-        }
-
+        // Store final answer
         vector<int> ans;
-        for(int x : nums1) {
-            ans.push_back(mp[x]);
+
+        // Get answers for nums1
+        for(int i = 0; i < nums1.size(); i++) {
+            ans.push_back(mp[nums1[i]]);
         }
 
         return ans;
