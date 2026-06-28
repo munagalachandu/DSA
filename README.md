@@ -115,6 +115,7 @@ DSA practice
 | [0704-binary-search](https://github.com/munagalachandu/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/munagalachandu/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/munagalachandu/DSA/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/munagalachandu/DSA/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/munagalachandu/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/munagalachandu/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/munagalachandu/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -275,6 +276,7 @@ DSA practice
 | ------- |
 | [0455-assign-cookies](https://github.com/munagalachandu/DSA/tree/master/0455-assign-cookies) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/munagalachandu/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0860-lemonade-change](https://github.com/munagalachandu/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/munagalachandu/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
