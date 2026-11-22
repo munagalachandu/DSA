@@ -67,6 +67,7 @@ DSA practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/munagalachandu/DSA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/munagalachandu/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/munagalachandu/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/munagalachandu/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/munagalachandu/DSA/tree/master/0234-palindrome-linked-list) |
@@ -316,4 +317,16 @@ DSA practice
 | ------- |
 | [0048-rotate-image](https://github.com/munagalachandu/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/munagalachandu/DSA/tree/master/0073-set-matrix-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/munagalachandu/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/munagalachandu/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/munagalachandu/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
